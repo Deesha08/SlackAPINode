@@ -1,0 +1,24 @@
+{
+  "name": "deesha-slack",
+  "version": "1.0.2",
+  "main": "index.js",
+  "bin": {
+    "deesha-slack": "./index.js"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "@slack/bolt": "^3.9.0",
+    "axios": "^0.25.0",
+    "chalk": "^2.4.1",
+    "cmd": "^0.1.0",
+    "commander": "^9.0.0",
+    "conf": "^10.1.1",
+    "jest": "^27.5.0"
+  }
+}
