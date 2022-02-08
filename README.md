@@ -45,6 +45,4 @@ https://slack.dev/bolt-js/tutorial/getting-started#create-an-app
 
 
 ## CodeCoverage Report
-
-[]!(screenshots/codeCoverage.png)
-
+![](screenshots/codeCoverage.png)
